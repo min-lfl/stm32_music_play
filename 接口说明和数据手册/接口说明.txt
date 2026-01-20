@@ -1,0 +1,9 @@
+上一首按钮接PB11对地
+下一首按钮接PB10对地
+音量加按钮接PA2对地
+音量减按钮接PA0对地
+
+串口用的是usart1即PA9和PA10
+PA9和PA10接到Serial MP3 Player模块的串口
+
+0.96英寸olde屏幕使用i2c通信，接i2c1即PB6和PB7口
